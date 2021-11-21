@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "/Users/ghostmou/virtualenvs/uoc-tfg-gnn/bin/python",
+        "jupyter.jupyterServerType": "local",
+    },
+    "launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Sandbox",
+				"type": "python",
+				"request": "launch",
+				"program": "/Users/ghostmou/vscode-projects/uoc-tfg-gnn/sandbox.py",
+				"console": "integratedTerminal"
+			}
+        ]
+    }
+}
